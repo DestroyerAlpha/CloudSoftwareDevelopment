@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Node server for Todo using Cloudant, CouchDB for storage",
+  "version": "2.0.0",
+  "private": false,
+  "engines": {
+    "node": ">6.7.0"
+  },
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "cfenv": "1.0.3",
+    "cloudant": "1.6.2",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "4.14.0",
+    "google-auth-library": "^7.9.1"
+  },
+  "author": "180010032",
+  "license": "Apache-2.0"
+}
