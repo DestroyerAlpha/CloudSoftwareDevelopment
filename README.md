@@ -1,4 +1,4 @@
-# bluemix-todo-apps - node overview
+# 180010032 Todo List App - node overview
 
 Todo List App using Cloudant services running on Bluemix.
 
